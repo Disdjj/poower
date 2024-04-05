@@ -1,12 +1,14 @@
-# poower_flutter
+# Poower
 
-a trace monitor for poop
+[Poower](https://github.com/Disdjj/poower)
 
 我很喜欢陶喆的 [soul power](https://music.douban.com/subject/5966149/) , 每次听到陶喆的转音都让我觉得非常酣畅淋漓, 但是不那么酣畅淋漓的是我的排便.
 
 为了关注我的健康问题, 我决定开始关注如厕时长.
 
 但是市面上鲜有人愿意提供一个简洁的App, 于是我决定自己做一个.
+
+![recording](/doc/assets/recording-20240405195222-y9jjtvy.gif)
 
 # 基本功能
 
